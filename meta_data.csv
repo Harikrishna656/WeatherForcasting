@@ -1,0 +1,8 @@
+v_name,v_type,ranage,categorical_type,levels,sum_operation,min_operation,max_operation,mean_operation
+Temp_C,float64, -23.3 to 33.0,N,,Y,Y,Y,Y
+Dew Point Temp_C,float64,-28.5 to 24.4,N,,Y,Y,Y,Y
+Rel Hum_%,int64,18 to 100,N,,Y,Y,Y,Y
+Wind Speed_km/h,int64,0 to 83,N,,Y,Y,Y,Y
+Visibility_km,float64,0.2 to 48.3,N,,Y,Y,Y,Y
+Press_kPa,float64,97.52 to 103.65,N,,Y,Y,Y,Y
+Weather,object,,Y,50,N,N,N,N
