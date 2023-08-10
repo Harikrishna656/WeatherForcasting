@@ -72,3 +72,65 @@ data apps.
 This is a free and open-source framework to rapidly build and share
 beautiful machine learning and data science web apps. It is a Python-
 based library specifically designed for machine learning engineers.
+
+Screenshots
+![1](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/dd5ab231-2ca1-4b11-8192-c4fd24ea4429)
+
+![2](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/16e9bcf5-e176-46ff-b255-1e6bd980076b)
+
+![3](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/f4c70050-8208-4390-a32e-b3eee8bc22c0)
+
+![4](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/243d3475-c2c5-425c-811a-77b1fa08537a)
+
+![5](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/ab652fee-a760-467d-a602-93ec3b3a2274)
+
+![6](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/3f434ddb-99fc-433f-8c4b-b1d64bb5999c)
+
+![7](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/c3b85c4a-6681-4443-a47a-303bb75cc926)
+
+![8](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/f515ab94-4be9-4bff-99d3-6248cfc0b946)
+
+![9](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/8f3cf20e-c7ba-458a-b0b1-642125a734ad)
+
+![10](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/0b607c02-f40c-4ec8-ae59-98b8c5f4ad11)
+
+![11](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/a1acf4fc-16b4-4d05-8d76-fbdb7502b8e4)
+
+![12](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/5dd6108c-81bc-4cce-8bf7-4e600f789aea)
+
+![13](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/12ba5c4b-7c91-49cf-aeb1-97ddfdbead89)
+
+![14](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/9537fa79-7e85-486a-9dd5-4522b33f0669)
+
+![15](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/1f1eb8ae-9d9e-489d-b892-85211821d904)
+
+![16](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/fd61ec9b-0135-476f-9165-2680aa7c7cf2)
+
+![17](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/1d382382-6803-49fe-b1b4-61eddf4b71e1)
+
+![18](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/dd637644-db61-4f3b-b02a-e74cafe5caa9)
+
+![19](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/80f384c6-3c05-479a-b5b4-ac241607f7d0)
+
+![20](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/812e2d5d-2d20-4710-811d-049a833a49b9)
+
+![Screenshot (21)](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/844f208f-de67-49be-ba16-6861fdbf314b)
+
+![Screenshot (22)](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/069727aa-3757-4395-a72c-308f0ba5d635)
+
+![Screenshot (23)](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/6ec6f042-a843-4c3e-85c6-127a67691ebf)
+
+![Screenshot (24)](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/1fb841da-2509-42d5-8147-b1e081a68440)
+
+![Screenshot (25)](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/3464e434-ea2f-4faa-a8da-b2f66847a49c)
+
+![Screenshot (26)](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/527bbc27-fd7c-495d-97f5-c2b604870ead)
+
+![Screenshot (27)](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/b3f0c284-eb64-4103-96cc-ad55a562ca8e)
+
+![Screenshot (28)](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/f8737bd6-ea7e-4596-abb3-1d12fb7879e4)
+
+![Screenshot (29)](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/955f466c-6feb-4f71-a0e2-bd59748f9a32)
+
+![Screenshot (30)](https://github.com/Harikrishna656/WeatherForcasting/assets/141383660/c4babecc-71e2-4d35-90c9-c45d9ced90c0)
+
